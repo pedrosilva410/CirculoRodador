@@ -1,2 +1,2 @@
-# CirculoRodador
-Este circulo roda
+# Rotating Circle
+(This circle rotates)
